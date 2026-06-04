@@ -1,4 +1,4 @@
-# SaborLocal app Pedro
+# SaborLocal
 
 O **Sabor Local** é um projeto acadêmico de desenvolvimento de um aplicativo de delivery criado do zero com o uso de tecnologias No/Low-code. O objetivo do projeto é centralizar pedidos, facilitar a experiência do cliente e apoiar a gestão do restaurante em uma solução moderna, prática e escalável.
 
