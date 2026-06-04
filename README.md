@@ -20,4 +20,4 @@ O aplicativo foi desenvolvido com foco em organização, automação e integraç
 Criar uma solução digital para delivery que una aplicativo, automação e gestão administrativa em um único ecossistema.
 
 ## Status
-Projeto acadêmico em desenvolvimento.
+Projeto acadêmico concluído (1º semestre de graduação).
